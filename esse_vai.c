@@ -114,7 +114,8 @@ void trissilaba(char alfabeto[], char vogais[]){
 				 		palavra[5]=vogais[rand() % 5];
 				 		printf("%s\n", palavra);
 				 	break;
-				 qtd = rand() % 5;
+				 case 1:
+				 		qtd = rand() % 5;
 				 		switch(qtd){
 				 					case 0:
 				 							palavra[0]=alfabeto[rand() % 17];
