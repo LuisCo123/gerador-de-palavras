@@ -649,8 +649,6 @@ aliassem
 aliarmos
 aliareis
 aliardes
-alheemos
-alheavas
 alheavam
 alheaste
 alheasse

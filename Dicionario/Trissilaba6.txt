@@ -1,4 +1,3 @@
-
 decepe
 decepa
 decano
@@ -212,7 +211,6 @@ cogite
 cogita
 cogelo
 cogele
-cogela
 coevos
 coevas
 coesos
@@ -260,7 +258,6 @@ coados
 coadas
 cloaca
 clarão
-citemo
 citava
 citara
 citamo
